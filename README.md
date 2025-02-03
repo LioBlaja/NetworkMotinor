@@ -2,7 +2,7 @@
 
 ## Detalii Proiect
 
-- **Număr Studenți:** 2  
+- **Număr Studenți:** 2  (elaborat de 1 student)
 - **Grad de Dificultate:** redus  
 
 ## Cerințe
