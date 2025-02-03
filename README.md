@@ -104,7 +104,7 @@ gcc -Wall -o monitor -fopenmp -pthread main.c -lncurses
 
 ### **To generate network traffic for testing:**
 wget http://speedtest.tele2.net/1GB.zip &
-./monitor
+'''
 
 ## **6. Conclusion**
 This network monitor leverages **multithreading** to efficiently collect and update network data in parallel, preventing UI lag and ensuring real-time performance. By using **ncurses**, it provides an interactive, scrollable interface, making it a powerful tool for monitoring network activity in Linux environments.
